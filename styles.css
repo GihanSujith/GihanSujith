@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply styles to header */
+header {
+    background-image: url("img/jewish-star-david-religious-background-with-shiny-effect_1017-44282.jpg");
+    text-align: center;
+    color: white;
+    position: sticky;
+    top: 0;
+     
+}
+#img{
+    color: white;
+   background-image: url("img/1644431822109.jpeg");
+   font-size: x-large;
+}
+
+.header-container {
+    padding: 20px;
+    text-align: center;
+    background-image: url("img/israel-flag-davids-star-symbol-peace-generative-ai-war-bombing-israeli-palestine_877869-43376.jpg");
+    font-size: xx-large;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+header img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Apply styles to navigation links */
+nav a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Apply styles to main content sections */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Apply styles to footer */
+footer {
+   background-image: url("img/israel-flag-davids-star-symbol-peace-generative-ai-war-bombing-israeli-palestine_877869-43376.jpg");
+    color: #fff;
+    text-align: center;
+    max-height: 100%;
+   
+}
+
+.footer-container {
+    font-size: x-large;
+    padding: 20px;
+}
+
+footer img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.education{
+    color:red;
+    font-size: larger;
+    
+  }
+  .card{
+    color: black;
+    font-size: xx-large;
+    text-align: left;
+    background-color: #007d0c;
+    border-radius: 8px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px lightgreen;
+   
+  }
+  .section01{
+    background-image: url("img/istockphoto-1330061203-1024x1024.jpg");
+}
+.card01{
+    font-size: x-large;
+    color: white;
+    text-align: left;
+    
+   
+    
+  }
+ .card02{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    
+ }
+ .about{
+    color:red;
+    font-size: x-large;
+ }
+ .lan{
+
+    color:red;
+    font-size: x-large;
+
+ }
+ .ul{
+    color:white;
+    font-size: medium; 
+    font-size: x-large;
+ }
+ #contact{
+    color: red;
+    font-size: x-large;
+ }
+ #projects{
+    color: red;
+    font-size: x-large;
+ }
+ #java{
+    color:rgb(27, 225, 5);
+    font-size: larger;
+ }
+ #java01{
+    color: rgb(27, 255, 2);
+    font-size: larger;
+ }
+ .ss{
+    color: white;
+ }
+ .dd{
+    color: white;
+ }
