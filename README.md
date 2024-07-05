@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gihansujith&label=Profile%20views&color=0e75b6&style=flat" alt="gihansujith" /> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gihansujith&" alt="gihansujith" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gihansujith" alt="gihansujith" /></a> </p>
 
 - 🔭 I’m currently working on [iCET](https://icetlms.lk/)
@@ -27,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihansujith&show_icons=true&locale=en" alt="gihansujith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gihansujith&" alt="gihansujith" /></p>
+
